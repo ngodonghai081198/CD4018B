@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../06_CD4017B.srcs/sources_1/new/CD4017B.v" \
+"../../../../06_CD4017B.srcs/sim_1/new/CD4017B_Testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
