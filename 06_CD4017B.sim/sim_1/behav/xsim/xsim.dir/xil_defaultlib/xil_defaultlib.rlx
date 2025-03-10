@@ -1,7 +1,7 @@
 0.7
 2020.2
 Apr 18 2022
-16:05:34
-D:/Chip_Design/SEMESTER_2/Vivado/Project_02/06_CD4017B/06_CD4017B.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
-D:/Chip_Design/SEMESTER_2/Vivado/Project_02/06_CD4017B/06_CD4017B.srcs/sim_1/new/CD4017B_Testbench.v,1741198630,verilog,,,,CD4017B_Testbench,,,,,,,,
-D:/Chip_Design/SEMESTER_2/Vivado/Project_02/06_CD4017B/06_CD4017B.srcs/sources_1/new/CD4017B.v,1741199165,verilog,,D:/Chip_Design/SEMESTER_2/Vivado/Project_02/06_CD4017B/06_CD4017B.srcs/sim_1/new/CD4017B_Testbench.v,,CD4017B,,,,,,,,
+15:53:03
+/home/minun/Documents/vivado/06_CD4017B/CD4018B/06_CD4017B.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+/home/minun/Documents/vivado/06_CD4017B/CD4018B/06_CD4017B.srcs/sim_1/new/CD4017B_Testbench.v,1741616599,verilog,,,,CD4017B_Testbench,,,,,,,,
+/home/minun/Documents/vivado/06_CD4017B/CD4018B/06_CD4017B.srcs/sources_1/new/CD4017B.v,1741616685,verilog,,/home/minun/Documents/vivado/06_CD4017B/CD4018B/06_CD4017B.srcs/sim_1/new/CD4017B_Testbench.v,,CD4017B,,,,,,,,

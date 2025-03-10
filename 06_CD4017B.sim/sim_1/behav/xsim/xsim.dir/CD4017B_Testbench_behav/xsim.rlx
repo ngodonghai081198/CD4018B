@@ -1,11 +1,11 @@
 
 { 
-    crc :  6133845720460259486  , 
+    crc :  16103861201125135200  , 
     ccp_crc :  0  , 
-    cmdline : " --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot CD4017B_Testbench_behav xil_defaultlib.CD4017B_Testbench xil_defaultlib.glbl" , 
+    cmdline : " --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot CD4017B_Testbench_behav xil_defaultlib.CD4017B_Testbench xil_defaultlib.glbl" , 
     buildDate : "Apr 18 2022" , 
-    buildTime : "16:05:34" , 
-    linkCmd : "C:\\Xilinx\\Vivado\\2022.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/CD4017B_Testbench_behav/xsimk.exe\"   \"xsim.dir/CD4017B_Testbench_behav/obj/xsim_0.win64.obj\" \"xsim.dir/CD4017B_Testbench_behav/obj/xsim_1.win64.obj\" -L\"C:\\Xilinx\\Vivado\\2022.1\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    buildTime : "15:53:03" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/CD4017B_Testbench_behav/xsimk\"   \"xsim.dir/CD4017B_Testbench_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/CD4017B_Testbench_behav/obj/xsim_1.lnx64.o\" -L\"/tools/Xilinx/Vivado/2022.1/lib/lnx64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
     aggregate_nets : 
     [ 
     ] 

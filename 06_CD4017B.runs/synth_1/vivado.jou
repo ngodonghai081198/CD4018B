@@ -1,13 +1,13 @@
 #-----------------------------------------------------------
 # Vivado v2022.1 (64-bit)
-# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
 # IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
-# Start of session at: Thu Mar  6 01:26:10 2025
-# Process ID: 13280
-# Current directory: D:/Chip_Design/SEMESTER_2/Vivado/Project_02/06_CD4017B/06_CD4017B.runs/synth_1
-# Command line: vivado.exe -log CD4017B.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CD4017B.tcl
-# Log file: D:/Chip_Design/SEMESTER_2/Vivado/Project_02/06_CD4017B/06_CD4017B.runs/synth_1/CD4017B.vds
-# Journal file: D:/Chip_Design/SEMESTER_2/Vivado/Project_02/06_CD4017B/06_CD4017B.runs/synth_1\vivado.jou
-# Running On: DESKTOP-QBCQ4N2, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 8, Host memory: 16890 MB
+# Start of session at: Mon Mar 10 21:24:59 2025
+# Process ID: 19579
+# Current directory: /home/minun/Documents/vivado/06_CD4017B/CD4018B/06_CD4017B.runs/synth_1
+# Command line: vivado -log CD4017B.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CD4017B.tcl
+# Log file: /home/minun/Documents/vivado/06_CD4017B/CD4018B/06_CD4017B.runs/synth_1/CD4017B.vds
+# Journal file: /home/minun/Documents/vivado/06_CD4017B/CD4018B/06_CD4017B.runs/synth_1/vivado.jou
+# Running On: minun-LOQ, OS: Linux, CPU Frequency: 1995.230 MHz, CPU Physical cores: 8, Host memory: 16478 MB
 #-----------------------------------------------------------
 source CD4017B.tcl -notrace
