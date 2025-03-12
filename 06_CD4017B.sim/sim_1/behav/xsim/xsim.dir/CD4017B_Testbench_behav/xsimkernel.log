@@ -1,7 +1,7 @@
-Running: xsim.dir/CD4017B_Testbench_behav/xsimk -simmode gui -wdb CD4017B_Testbench_behav.wdb -simrunnum 0 -socket 52411
+Running: xsim.dir/CD4017B_Testbench_behav/xsimk -simmode gui -wdb CD4017B_Testbench_behav.wdb -simrunnum 0 -socket 58907
 Design successfully loaded
-Design Loading Memory Usage: 28956 KB (Peak: 29516 KB)
-Design Loading CPU Usage: 30 ms
+Design Loading Memory Usage: 28972 KB (Peak: 29524 KB)
+Design Loading CPU Usage: 10 ms
 Simulation completed
-Simulation Memory Usage: 110692 KB (Peak: 168224 KB)
-Simulation CPU Usage: 30 ms
+Simulation Memory Usage: 110968 KB (Peak: 168240 KB)
+Simulation CPU Usage: 20 ms
